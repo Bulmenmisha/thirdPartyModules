@@ -1,0 +1,13 @@
+{
+  "name": "task2-dotenv",
+  "version": "1.0.0",
+  "description": "ДЗ 4, задание 2: создание и чтение файла с fs и dotenv",
+  "main": "file-operation.js",
+  "scripts": {
+    "start": "node file-operation.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

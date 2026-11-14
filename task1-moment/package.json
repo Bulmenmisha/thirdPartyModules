@@ -1,0 +1,13 @@
+{
+  "name": "task1-moment",
+  "version": "1.0.0",
+  "description": "ДЗ 4, задание 1: форматирование даты с помощью moment",
+  "main": "date-format.js",
+  "scripts": {
+    "start": "node date-format.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
